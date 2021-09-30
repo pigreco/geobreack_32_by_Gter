@@ -1,4 +1,4 @@
-# GeoBreack 02 by Gter
+# GeoBreack 32 by Gter
 
 GeoBreak 02 - alla scoperta delle espressioni di QGIS - secondo appuntamento
 
@@ -10,7 +10,7 @@ GeoBreak 02 - alla scoperta delle espressioni di QGIS - secondo appuntamento
 
 <!-- TOC -->
 
-- [GeoBreack 02 by Gter](#geobreack-02-by-gter)
+- [GeoBreack 32 by Gter](#geobreack-32-by-gter)
   - [Relatore](#relatore)
   - [Data, luogo e durata](#data-luogo-e-durata)
   - [Piattaforme e Software](#piattaforme-e-software)
@@ -81,7 +81,7 @@ GeoBreak 02 - alla scoperta delle espressioni di QGIS - secondo appuntamento
    3. array;
    4. maps.
 
-[↑ torna su ↑](#geobreack-02-by-gter)
+[↑ torna su ↑](#geobreack-32-by-gter)
 
 ## QGIS e le espressioni ESEMPI
 
@@ -92,7 +92,7 @@ Le espressioni di QGIS permettono di velocizzare il lavoro in QGIS
 - **video youtube primo incontro 23-06-2021** : <https://youtu.be/tHrJNs3njrM>
 - **video youtube secondo incontro 06-10-2021** : 
 
-[↑ torna su ↑](#geobreack-02-by-gter)
+[↑ torna su ↑](#geobreack-32-by-gter)
 
 # Contatti
 
@@ -113,7 +113,7 @@ Le espressioni di QGIS permettono di velocizzare il lavoro in QGIS
 * **gitlab**: <https://gitlab.com/pigr3co>
 * **Canale Telegram** : <https://t.me/pigrecoinfinito>
 
-[↑ torna su ↑](#geobreack-02-by-gter)
+[↑ torna su ↑](#geobreack-32-by-gter)
 
 # Riferimenti utili
 
@@ -125,7 +125,7 @@ Le espressioni di QGIS permettono di velocizzare il lavoro in QGIS
 - **Visual Studio Code** : <https://code.visualstudio.com/>
 - **OpenDataSicilia** : <http://opendatasicilia.it/>
 
-[↑ torna su ↑](#geobreack-02-by-gter)
+[↑ torna su ↑](#geobreack-32-by-gter)
 
 # Cosa c'è in questo repo
 
@@ -134,4 +134,4 @@ Le espressioni di QGIS permettono di velocizzare il lavoro in QGIS
 - file `license` è il file che definisce la licenza del repository;
 - file `README.md` è questo file, con le info.
 
-[↑ torna su ↑](#geobreack-02-by-gter)
+[↑ torna su ↑](#geobreack-32-by-gter)
