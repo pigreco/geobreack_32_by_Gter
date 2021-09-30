@@ -31,7 +31,7 @@ GeoBreak 02 - alla scoperta delle espressioni di QGIS - secondo appuntamento
 
 **DESCRIZIONE**: <br> Obiettivo di questo GeoBreak è quello di evidenziare le potenzialità delle espressioni di **QGIS**: come usarle, dove usarle e perché non possiamo fare a meno del Field Calc di QGIS.
 
-<p align="center"><a href="https://www.gter.it/" target="_blank"><img src="./imgs/locandina.jpg" width="500" title="GeoBreak 02 - secondo appuntamento"></a></p>
+<p align="center"><a href="https://mailchi.mp/a50b90870c50/in-arrivo-primo-geobreak-ottobre?fbclid=IwAR2U4IPBF5_LyVtJdAKZEnanCWEKMbC3ZD2-FnWzawp6rGB47IR3AMUoe_A" target="_blank"><img src="./imgs/locandina.jpg" width="500" title="GeoBreak 02 - secondo appuntamento"></a></p>
 
 ---
 
