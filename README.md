@@ -1,6 +1,6 @@
 # GeoBreack 32 by Gter
 
-GeoBreak 02 - alla scoperta delle espressioni di QGIS - secondo appuntamento
+GeoBreak 32 - alla scoperta delle espressioni di QGIS - secondo appuntamento
 
 [![](https://img.shields.io/badge/discussioni-partecipa-brightgreen?style=for-the-badge&logo=github)](https://github.com/pigreco/geobreack-02_espressioni_di-QGIS/discussions)
 
