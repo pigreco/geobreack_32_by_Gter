@@ -22,6 +22,7 @@ GeoBreak 32 - alla scoperta delle espressioni di QGIS - secondo appuntamento
   - [Sitografia](#sitografia)
 - [Riferimenti utili](#riferimenti-utili)
 - [Cosa c'è in questo repo](#cosa-cè-in-questo-repo)
+  - [risultati](#risultati)
 
 <!-- /TOC -->
 
@@ -135,3 +136,13 @@ Le espressioni di QGIS permettono di velocizzare il lavoro in QGIS
 - file `README.md` è questo file, con le info.
 
 [↑ torna su ↑](#geobreack-32-by-gter)
+
+## risultati
+
+- presente: 25
+
+![](imgs/diretta/img_01.png)
+
+![](imgs/diretta/img_02.png)
+
+![](imgs/diretta/img_03.png)
