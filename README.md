@@ -91,7 +91,7 @@ Le espressioni di QGIS permettono di velocizzare il lavoro in QGIS
 - [slide primo incontro 23/06/2021](https://docs.google.com/presentation/d/e/2PACX-1vQb1Ob4fa-lROXPBHDqAmyvmfH_ftnJKvQ22XC5SXjQC7TO7jTZE2L4LgJtznBdeGkgamVeqkbkhpeE/pub?start=false&loop=false&delayms=3000)
 - [slide secondo incontro 06/10/2021](https://docs.google.com/presentation/d/e/2PACX-1vSD8QurjzQZFRbXJgeaJd5nzILLfPfoIQUClyz4Fy_ajAQgkiZfIKiFQDOo7If4R_6be_G18NDKlHOY/pub?start=true&loop=false&delayms=3000)
 - **video youtube primo incontro 23-06-2021** : <https://youtu.be/tHrJNs3njrM>
-- **video youtube secondo incontro 06-10-2021** : 
+- **video youtube secondo incontro 06-10-2021** : <https://youtu.be/MDwCdXHwdJg>
 
 [↑ torna su ↑](#geobreack-32-by-gter)
 
